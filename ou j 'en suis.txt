@@ -1,0 +1,16 @@
+page de contact formulaire
+ajouter systeme d'envoie de mail et heberger en vite fait 
+finir page de presentation
+
+25/06/2021
+decouvert probleme lors de l'hebergement ptnnnn
+faire page client et page admins
+
+
+
+
+
+finir le bisness google pour confirmer l'adresse
+
+
+
